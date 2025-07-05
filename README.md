@@ -7,9 +7,7 @@ Quran Madinah - القرآن الكريم - مصحف المدينة المنور
 
 https://mp30quran.github.io/quran-madinah/index.html
 
-
-صور مصحف المدينة المنورة 
-https://github.com/mp30quran/quran-madinah/tree/main/quran_pages
+رابط المصحف الشريف
 
 
 ![image](https://github.com/user-attachments/assets/7e63258f-5efa-4ef8-af77-80bb6d7993ac)
