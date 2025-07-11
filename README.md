@@ -20,7 +20,7 @@ https://mp30quran.github.io/quran-madinah/index.html
 
 ![image](https://github.com/user-attachments/assets/a49caf2e-608e-4d94-8cce-57796f843327)
 
-<img width="1736" height="905" alt="image" src="https://github.com/user-attachments/assets/cf073afe-77b4-4a7f-9e4d-c37dc19781ef" />
+<img width="1497" height="874" alt="image" src="https://github.com/user-attachments/assets/62d07d55-8f3a-4a12-97d6-bc9c67dd7b76" />
 
 
 
