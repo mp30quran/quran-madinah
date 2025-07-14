@@ -24,3 +24,10 @@ https://mp30quran.github.io/quran-madinah/index.html
 
 
 
+
+<img width="512" height="512" alt="ic_launcher-playstore" src="https://github.com/user-attachments/assets/3a65a708-672d-4b3f-adab-2db799af3473" />
+
+
+
+
+
